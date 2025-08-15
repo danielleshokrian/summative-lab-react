@@ -1,0 +1,52 @@
+/* Reset & base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fafafa;
+  color: #333;
+}
+
+/* Navbar styles */
+nav {
+  background-color: #3e2723;
+  color: white;
+  padding: 1rem;
+}
+
+nav a {
+  color: white;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Coffee card styles */
+.coffee-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 6px;
+  background: white;
+}
+
+/* Search & filter styles */
+.search-bar {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
+
+/* Form styles */
+form input, form select, form textarea {
+  display: block;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  width: 100%;
+}
+

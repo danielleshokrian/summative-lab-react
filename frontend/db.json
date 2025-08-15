@@ -1,0 +1,39 @@
+{
+  "coffees": [
+    {
+      "id": "1",
+      "name": "Espresso",
+      "description": "Strong & bold",
+      "origin": "Italy",
+      "price": 3
+    },
+    {
+      "id": "2",
+      "name": "Latte",
+      "description": "Smooth & creamy",
+      "origin": "France",
+      "price": 4
+    },
+    {
+      "id": "3",
+      "name": "Cappuccino",
+      "description": "Rich and foamy",
+      "origin": "Italy",
+      "price": 4.5
+    },
+    {
+      "id": "4",
+      "name": "Americano",
+      "description": "Classic drip coffee",
+      "origin": "USA",
+      "price": 2.5
+    },
+    {
+      "id": "5",
+      "name": "Mocha",
+      "description": "Chocolate & coffee",
+      "origin": "Yemen",
+      "price": 5
+    }
+  ]
+}
